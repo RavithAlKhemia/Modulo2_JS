@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Arrows:wght@400..700&family=National+Park:wght@200..800&family=Noto+Sans+JP:wght@100..900&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+.h2 {
+  color: black;
+}
+
+body {
+  font-weight: 400;
+}
+
+#div {
+    background-color: aqua;
+    height: 50px;
+}
