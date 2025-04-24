@@ -63,3 +63,20 @@ const btn = document.getElementById("btn")
 btn.addEventListener("click", () => {
     div.style.display = 'none'
 })
+
+btn2.addEventListener("click", () => {
+    div.style.display = ''
+})
+
+$("p").click(function(){
+    $(this).hide(4000)
+    $(this).fadeIn(4000)
+})
+
+$("#boton").click(function(){
+    $("#parrafo").css({
+        'weight':'400px',
+        'background-color':'#008000',
+        'color':'#ffffff'
+    })
+})

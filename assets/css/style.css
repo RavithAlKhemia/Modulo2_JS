@@ -6,9 +6,16 @@
 
 body {
   font-weight: 400;
+  height: 150px;
+  width: 300px;
+  padding: 5px;
 }
 
 #div {
     background-color: aqua;
     height: 50px;
+}
+
+#div_text {
+  padding: 10px;
 }
